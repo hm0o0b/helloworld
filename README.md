@@ -1,6 +1,6 @@
 # helloworld 홈페이지 입니다.
 ## 안녕하세요. 반갑습니다.
-<img src="cat.jpg"/><br>
+<img src="고양이.jpg"/><br>
 [네이버링크입니다.] (https://naver.com)
 
 ## 고양이 동영상
